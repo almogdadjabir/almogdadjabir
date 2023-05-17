@@ -1,3 +1,4 @@
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 - 👋 Hi, I’m @almogdadjabir Al-Mogdad Jabir
 - 🔭 I specialize in Android app development using Java, Kotlin, and Flutter.
