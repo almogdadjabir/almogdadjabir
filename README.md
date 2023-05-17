@@ -1,4 +1,3 @@
-![Django](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg?style=for-the-badge&logo=django&logoColor=white)
 
 - 👋 Hi, I’m @almogdadjabir Al-Mogdad Jabir
 - 🔭 I specialize in Android app development using Java, Kotlin, and Flutter.
