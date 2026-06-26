@@ -1,41 +1,76 @@
 # 👋 Hi, I'm Al-Mogdad Jabir
 
-I'm a mobile developer focused on building real production apps using **Flutter**, **Native Android**, and a bit of **iOS Swift** when needed.
+I'm a **Full-Stack Tech Lead / Software Architect** with 12+ years of experience building production systems across mobile, backend, payments, real-time platforms, and custom hardware solutions.
 
-Most of my work is around mobile apps that need to be stable, secure, and ready for real users — not just nice demos.
+I started with web and backend development, moved deep into Android, iOS, and Flutter, and over time worked across full platforms — from mobile apps and APIs to search, payment flows, CI/CD, release management, and production support.
 
-## What I work with
+I’m mostly interested in systems that are used by real people at scale, especially when reliability, security, and clean architecture actually matter.
 
-* Flutter / Dart
-* Native Android / Kotlin / Java
-* iOS / Swift
-* MVVM, BLoC, clean app structure
-* REST APIs, WebSocket, Socket.IO
-* Firebase, push notifications, deep links
-* Offline-first flows
-* POS, fintech, wallet, and payment-related apps
+---
 
-## What I’m building / interested in
+## What I work on
 
-I like working on apps that solve real business problems.
+* Full-stack platform architecture
+* Mobile apps across Flutter, Android, and iOS
+* Backend systems using Python/Django and PHP
+* REST APIs, WebSockets, real-time updates, and live data sync
+* Digital wallets, card issuance, transaction history, P2P, and payment flows
+* POS systems, kiosk apps, payment terminals, NFC, scanners, and printers
+* CI/CD, release management, observability, and production reliability
+* Search systems using Elasticsearch
+* Secure apps with certificate pinning, secure storage, device integrity, and anti-tamper patterns
 
-Recently my focus has been around:
+---
 
-* fintech and wallet apps
-* POS systems
-* offline-first mobile apps
-* payment flows
-* app security
-* clean mobile architecture
-* production debugging and release issues
+## Tech Stack
 
-I'm also building **AmanaPOS**, an offline-first POS system made for merchants who need the app to keep working even when internet or power is not stable.
+### Frontend & Mobile
 
-## How I work
+Flutter, Dart, Kotlin, Java, Swift, Android, iOS, MVVM, Clean Architecture, modular architecture, state management, dependency injection.
 
-I care about writing code that is clean enough to maintain, but practical enough to ship.
+### Backend & APIs
 
-I like simple architecture, clear responsibilities, and avoiding over-engineering unless the project really needs it.
+Python, Django, PHP, REST APIs, API versioning, service boundaries, MySQL, Elasticsearch, WebSockets, Socket.IO.
+
+### DevOps & Delivery
+
+Git, GitHub Actions, GitLab CI, Fastlane, TestFlight, Google Play Console, staged rollouts, crash monitoring, structured logging, release management.
+
+### Payments & Hardware
+
+Digital wallets, card lifecycle, payment integrations, payment terminals, NFC, scanners, printers, kiosk apps, custom Android hardware.
+
+---
+
+## Current Focus
+
+Right now, I’m focused on building secure and scalable platforms around:
+
+* government digital services
+* banking and wallet systems
+* POS and merchant tools
+* offline-first applications
+* production reliability and release quality
+* AI-assisted business tools for merchants
+
+I’m also building **AmanaPOS**, an offline-first POS system designed for merchants who need their business to keep running even when internet or power is unstable.
+
+---
+
+## How I like to build
+
+I care about clean code, but I care more about systems that survive production.
+
+For me, good engineering means:
+
+* simple architecture that the team can understand
+* clear API contracts between frontend and backend
+* stable releases, not last-minute chaos
+* good debugging, logging, and monitoring
+* security from the start, not after release
+* practical solutions instead of over-engineering
+
+---
 
 ## Contact
 
